@@ -1,0 +1,1 @@
+<img src="{{ asset('sbadmin_asset/img/logo_web.svg') }}" alt="Logo Login">
